@@ -1,0 +1,3 @@
+"0","# combine tiles for each date to create 2 objects"
+"0","feb7 <- st_mosaic(feb7_h08v05, feb7_h0806)"
+"0","feb16 <- st_mosaic(feb16_h0805, feb16_h0806)"
