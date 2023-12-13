@@ -22,4 +22,9 @@ This repository contains the code and documentation for the "Houston Blackout Se
 Data is stored in the README and can be accessed here: https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view
 
 ## Data
+Hsu, Feng Chi et al. 2021. “Frozen Out in Texas: Blackouts and Inequity.” https://www.rockefellerfoundation.org/case-study/frozen-out-in-texas-blackouts-and-inequity/.
+
+NASA. 2023. “Level-1 and Atmosphere Archive & Distribution System Distributed Active Archive Center - LAADS DAAC.” https://ladsweb.modaps.eosdis.nasa.gov/.
+
+OpenStreetMaps. 2023. https://planet.openstreetmap.org/.
 
